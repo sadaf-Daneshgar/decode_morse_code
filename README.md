@@ -25,7 +25,7 @@
 
 # 📖 [ Decode a Morse code message ] <a name="about-project"></a>
 
-**[ Decode a Morse code message ]** 
+**[ Decode a Morse code message ]**  project that is part of the Microverse Ruby curriculum. The project is to build a method that takes a morse code as an input and returns the decoded massage. The project is built with Ruby.
 
 ## 🛠 Built With <a name="built-with"></a>
 - ✅ Ruby
